@@ -1,6 +1,6 @@
 ---
 name: freebuff-conductor-setup
-description: Инициализирует проект с conductor/ директорией: product.md, tech-stack.md, workflow.md, code_styleguides, tracks. Используй при первом запуске проекта или когда нужно настроить conductor-окружение.
+description: "Инициализирует проект с conductor/ директорией: product.md, tech-stack.md, workflow.md, code_styleguides, tracks. Используй при первом запуске проекта или когда нужно настроить conductor-окружение."
 ---
 
 # freebuff-conductor-setup
