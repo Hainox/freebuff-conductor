@@ -1,15 +1,15 @@
 ---
-name: frebuff-conductor-implement
+name: freebuff-conductor-implement
 description: Выполняет задачи из plan.md активного трека по порядку: TDD, реализация, верификация, коммит. Используй когда трек спланирован и готов к реализации.
 ---
 
-# frebuff-conductor-implement
+# freebuff-conductor-implement
 
 Последовательное выполнение задач трека по плану из `plan.md`.
 
 ## When to use
 
-- После создания трека через frebuff-conductor-new-track
+- После создания трека через freebuff-conductor-new-track
 - Когда трек в статусе `pending` или `in_progress`
 - Для продолжения прерванной реализации
 

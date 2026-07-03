@@ -1,9 +1,9 @@
 ---
-name: frebuff-conductor-status
+name: freebuff-conductor-status
 description: Показывает статус проекта: все треки, прогресс фаз, выполненные/оставшиеся задачи. Используй когда нужно узнать «на какой мы стадии».
 ---
 
-# frebuff-conductor-status
+# freebuff-conductor-status
 
 Обзор текущего состояния проекта и всех треков.
 
@@ -27,7 +27,7 @@ description: Показывает статус проекта: все треки
 ### Step 3: Сформируй отчёт
 
 ```
-📊 Frebuff Conductor — Статус проекта
+📊 freebuff Conductor — Статус проекта
 
 ## Активные треки
 | ID | Описание | Тип | Статус | Прогресс |
@@ -49,6 +49,6 @@ description: Показывает статус проекта: все треки
 
 ### Step 4: Рекомендации
 
-- `in_progress` → «Продолжить?» (frebuff-conductor-implement)
-- Все `completed` → «Новый трек?» (frebuff-conductor-new-track)
+- `in_progress` → «Продолжить?» (freebuff-conductor-implement)
+- Все `completed` → «Новый трек?» (freebuff-conductor-new-track)
 - `pending` → «Начать первый в очереди?»

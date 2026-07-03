@@ -1,9 +1,9 @@
 ---
-name: frebuff-conductor-new-track
+name: freebuff-conductor-new-track
 description: Создаёт новый трек (feature/bugfix/refactor) с spec.md и plan.md в conductor/tracks/. Используй когда нужно запланировать новую фичу или исправление.
 ---
 
-# frebuff-conductor-new-track
+# freebuff-conductor-new-track
 
 Создание нового трека по методологии Context-Driven Development: спецификация + план реализации.
 
@@ -17,7 +17,7 @@ description: Создаёт новый трек (feature/bugfix/refactor) с spe
 
 ### Step 1: Проверь setup
 
-Прочитай `conductor/index.md`. Если `conductor/product.md` нет — скажи сначала запустить **frebuff-conductor-setup**.
+Прочитай `conductor/index.md`. Если `conductor/product.md` нет — скажи сначала запустить **freebuff-conductor-setup**.
 
 ### Step 2: Получи описание
 
@@ -67,4 +67,4 @@ description: Создаёт новый трек (feature/bugfix/refactor) с spe
 
 - Покажи ID трека, количество фаз и задач
 - Предложи коммит: `git add conductor/tracks/<track_id>/ && git commit -m "feat(conductor): Create track '<description>'"`
-- Спроси: «Начать реализацию?» → если да, загрузи **frebuff-conductor-implement**
+- Спроси: «Начать реализацию?» → если да, загрузи **freebuff-conductor-implement**

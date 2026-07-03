@@ -1,9 +1,9 @@
 ---
-name: frebuff-conductor-setup
+name: freebuff-conductor-setup
 description: Инициализирует проект с conductor/ директорией: product.md, tech-stack.md, workflow.md, code_styleguides, tracks. Используй при первом запуске проекта или когда нужно настроить conductor-окружение.
 ---
 
-# frebuff-conductor-setup
+# freebuff-conductor-setup
 
 Инициализация проекта по методологии Context-Driven Development. Создаёт `conductor/` — единый источник правды для AI-агентов.
 
@@ -67,4 +67,4 @@ conductor/
 
 - Выведи список созданных файлов
 - Предложи: `git add conductor/ && git commit -m "chore(conductor): Initialize project context"`
-- Сообщи: «Готово. Используй **frebuff-conductor:implement** для выполнения трека.»
+- Сообщи: «Готово. Используй **freebuff-conductor:implement** для выполнения трека.»
